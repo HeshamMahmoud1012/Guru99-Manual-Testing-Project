@@ -14,7 +14,7 @@ Full functional testing of the Guru99 Bank application across Manager and Custom
 
 ## Deliverables
 
-`Guru99-Bank-Test-Suite.xlsx` - the complete test suite, one tab per module:
+[Guru99-Bank-Test-Suite.xlsx](https://github.com/HeshamMahmoud1012/Guru99-Manual-Testing-Project/releases/download/v1.0/Guru99-Bank-Test-Suite.xlsx) (download from release v1.0) - the complete test suite, one tab per module:
 
 - Test plan with module ownership and execution status
 - Detailed test cases: preconditions, steps, test data, expected vs actual results, pass/fail status
